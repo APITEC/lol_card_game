@@ -51,3 +51,26 @@ class MyHomePage extends StatelessWidget {
 En este caso es un SatelessWidget, un widget incapaz de mantener y renderizar su estado dinámicamente. Este incluye un método indispensable, 'build'. Es este el encargado de construir el widget y todos sus componentes, y dentro de él crearemos la estructura de nuestra aplicación.
 
 ## 4. Crear la estructura del app
+
+Durante clase crearemos la estructura principal de nuestra aplicación. Consulta los archivos dentro del folder 'lib' para conocer los resultados. Es recomendado explorar más a fondo los widgets cubiertos en este proyecto e implementar variaciones según cabios de estilo que se quieran realizar y funcionalidad que se quiera agregar.
+
+## 5. Widgets (y funciones)
+
+- [main()](https://en.cppreference.com/w/cpp/language/main_function)
+- [runApp()](https://api.flutter.dev/flutter/widgets/runApp.html)
+- [build()](https://api.flutter.dev/flutter/widgets/State/build.html)
+
+- [StatelessWidget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
+- [MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+- [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+- [SafeArea](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
+- [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+- [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
+- [Padding](https://api.flutter.dev/flutter/widgets/Padding-class.html)
+- [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
+- [TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
+- [PageView](https://api.flutter.dev/flutter/widgets/PageView-class.html)
+- [PageController](https://api.flutter.dev/flutter/widgets/PageController-class.html)
